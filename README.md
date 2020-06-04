@@ -10,11 +10,11 @@ This tutorial depends on the following libraries:
 * opencv-python
 
 ### usage
-[gradcam.py](gradcam.py):which is the formal implementation [GRAD-CAM](https://github.com/jacobgil/pytorch-grad-cam).My work is based on the work.
+[gradcam.py](gradcam.py):which is the formal implementation [GRAD-CAM](https://github.com/jacobgil/pytorch-grad-cam).My work is based on this work.
 
 [gradcam_unet.py](gradcam_unet.py):which is the implementation SEG-GRAD-CAM.We use the model [deep smoke Segmentation](https://arxiv.org/abs/1809.00774)(like Unet).
 
-you can run the test using [model](https://pan.baidu.com/s/16IolEoXFZChlTKNo2t5jnA) with password "3d7c"
+you can run gradcam_unet.py using [model](https://pan.baidu.com/s/16IolEoXFZChlTKNo2t5jnA) with password "3d7c"
 
 ![result/pic_1.jpg](result/pic_1.jpg)
 ![result/cam_1.jpg](result/cam_1.jpg)
