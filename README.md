@@ -22,6 +22,8 @@ you can run the test using [model](https://pan.baidu.com/s/16IolEoXFZChlTKNo2t5j
 [gradcam_3d.py](gradcam_3d.py):which is the implementation SEG-GRAD-CAM based on 3dunet.It's used for video Activation Mapping.
 because the paper haven't been public.So the model will be release soon.But it is not important to vis activation map based your on model.
 
+[generate_gif.py](generate_gif.py): the input and output data of gradcam_3d.py is pic.If you want to compose a series of pic to gif,you can run generate_gif.py.
+
 ![result/video_2.gif](result/video_2.gif)
 ![result/vis2.gif](result/vis2.gif)
 
