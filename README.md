@@ -25,4 +25,6 @@ because the paper haven't been public.So the model will be release soon.But it i
 ![result/video_2.gif](result/video_2.gif)
 ![result/vis2.gif](result/vis2.gif)
 
+##Question
+if you have any question about the code. Please email me 359684740@qq.com
 
