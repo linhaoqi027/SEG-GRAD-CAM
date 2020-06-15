@@ -1,5 +1,5 @@
 # SEG-GRAD-CAM
-pytorch implementation of SEG-GRAD-CAM,which based on grad-cam it also have 3D SEG-GRAD-CAM which is useing for video.
+pytorch implementation of SEG-GRAD-CAM,which based on grad-cam.It also has 3D SEG-GRAD-CAM which is used for video.
 see the paper [Towards Interpretable Semantic Segmentation via Gradient-weighted Class Activation Mapping](https://arxiv.org/abs/2002.11434)
 ## How to use
 
