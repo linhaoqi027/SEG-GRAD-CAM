@@ -14,7 +14,7 @@ This tutorial depends on the following libraries:
 
 [gradcam_unet.py](gradcam_unet.py):which is the implementation SEG-GRAD-CAM.We use the model [deep smoke Segmentation](https://arxiv.org/abs/1809.00774)(like Unet).
 
-you can run gradcam_unet.py using [model](https://pan.baidu.com/s/16IolEoXFZChlTKNo2t5jnA) with password "3d7c"
+you can run gradcam_unet.py using model [BaiDuyun](https://pan.baidu.com/s/16IolEoXFZChlTKNo2t5jnA) with password "3d7c" or [google drive](https://drive.google.com/file/d/1MXPr6WDdlj6ZcqjJClmLUPkE6kCGfuXL/view?usp=sharing)
 
 ![result/pic_1.jpg](result/pic_1.jpg)
 ![result/cam_1.jpg](result/cam_1.jpg)
